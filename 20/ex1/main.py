@@ -27,7 +27,7 @@ if everything_else == '#':
 else:
     print(len(image))
 
-for generation in range(50):
+for generation in range(2):
     new_image = set()
 
     minimum = start_min - generation - 1
