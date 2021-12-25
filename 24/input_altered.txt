@@ -1,0 +1,62 @@
+inp w
+set x z
+mod x 26
+add x 14
+fun 12
+inp w
+set x z
+mod x 26
+add x 15
+fun 7
+inp w
+set x z
+mod x 26
+add x 12
+fun 1
+inp w
+set x z
+mod x 26
+add x 11
+fun 2
+split
+inp w
+add x -5
+fun 4
+inp w
+set x z
+mod x 26
+add x 14
+fun 15
+inp w
+set x z
+mod x 26
+add x 15
+fun 11
+split
+inp w
+add x -13
+fun 5
+split
+inp w
+add x -16
+fun 3
+split
+inp w
+add x -8
+fun 9
+inp w
+set x z
+mod x 26
+add x 15
+fun 2
+split
+inp w
+add x -8
+fun 3
+split
+inp w
+fun 3
+split
+inp w
+add x -4
+fun 11
